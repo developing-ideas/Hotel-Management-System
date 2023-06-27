@@ -1,0 +1,7 @@
+Invoice User: a
+Invoice Name: Standard Invoice
+Invoice Number: 3
+Invoice Cost: $0
+Room Number: 64
+
+Thank you for staying with us!

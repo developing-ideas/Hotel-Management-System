@@ -1,0 +1,6 @@
+Invoice Name: Standard Invoice
+Invoice Number: 4
+Invoice Cost: $0
+Room Number: 82
+
+Thank you for staying with us!
